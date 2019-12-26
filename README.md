@@ -1,0 +1,2 @@
+# star
+Like Polaris
